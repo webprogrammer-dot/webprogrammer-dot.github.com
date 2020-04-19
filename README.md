@@ -1,2 +1,2 @@
-# webprogrammer-dot.github.com
+# webprogrammer-dot.github.io
 a web developing  area
